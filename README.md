@@ -120,4 +120,6 @@ ESP32 (sensor)  →  MQTT  →  Node-RED  →  Base de datos  →  n8n  →  Ale
 
 ## 10. Equipo
 
-**[COMPLETAR: integrantes, materia y fecha]**
+Ariel Zeñuka
+Armando Brunner
+Luciana Monllor
